@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/OurFirstApp.iml" filepath="$PROJECT_DIR$/.idea/OurFirstApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OurQuarkus/our_quarkus/our_quarkus.iml" filepath="$PROJECT_DIR$/OurQuarkus/our_quarkus/our_quarkus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OurQuarkus/our_quarkus/src/main/our_vue.iml" filepath="$PROJECT_DIR$/OurQuarkus/our_quarkus/src/main/our_vue.iml" />
+    </modules>
+  </component>
+</project>
