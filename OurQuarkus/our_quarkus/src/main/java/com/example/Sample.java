@@ -10,11 +10,11 @@ import java.time.LocalDateTime;
 @Entity
 public class Sample extends PanacheEntity{
 
-    private Long id;
-    private String name;
-    private String description;
-    private LocalDateTime created_date;
-    private LocalDateTime updated_date;
+    public Long id;
+    public String name;
+    public String description;
+    public LocalDateTime created_date;
+    public LocalDateTime updated_date;
 
     //public String toString(){ return "ID: "+id+"\nname: "+name; }
 }
