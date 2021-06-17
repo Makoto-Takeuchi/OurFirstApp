@@ -25,10 +25,11 @@ public class DataOperationService {
         return sample;
     }
 
+    /*
     public List<Sample> getAllSample(){
         return Sample.listAll();
     }
-
+*/
     public Sample getSample(Long id) {
         return em.find(Sample.class, id);
     }

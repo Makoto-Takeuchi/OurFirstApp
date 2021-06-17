@@ -1,6 +1,6 @@
 package com.example;
 
-import io.quarkus.hibernate.orm.panache.PanacheQuery;
+import io.quarkus.hibernate.reactive.panache.PanacheQuery;
 
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
